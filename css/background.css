@@ -2,38 +2,36 @@
 
 /* Fondo principal */
 html, body, #app-mount, .app, .layer {
-    background-color: #000001 !important;
-    background: #000001 !important;
-    color: #FFFFFF !important; /* Asegura que el texto sea blanco */
+    background-color: #000000 !important; /* Respaldo en caso de que la imagen no se cargue */
+    background-image: url('https://media.discordapp.net/attachments/1308480901289869342/1310255101780168815/000000.png?ex=67448da7&is=67433c27&hm=92e89bc016f27c7473e7acb13e61a7efc7663c2fe311c72ddc8af4e120e02861&=&format=webp&quality=lossless&width=187&height=250') !important;
+    background-repeat: repeat !important; /* Repetir imagen para cubrir toda la área */
 }
 
 /* Fondos de los diferentes contenedores */
 .container-3baos1, .container-2Pjhx-, .container-2g94dK, .container-1giJi1, .container-3gGgei,
 .container-3NkBO4, .container-3cGP6G, .container-2CL9sy {
-    background-color: #000001 !important;
-    background: #000001 !important;
+    background-color: #000000 !important;
+    background-image: url('https://media.discordapp.net/attachments/1308480901289869342/1310255101780168815/000000.png?ex=67448da7&is=67433c27&hm=92e89bc016f27c7473e7acb13e61a7efc7663c2fe311c72ddc8af4e120e02861&=&format=webp&quality=lossless&width=187&height=250') !important;
+    background-repeat: repeat !important;
 }
 
 /* Fondo de la barra lateral */
 .sidebar-2K8pFh, .sidebar-2PZ6yX {
-    background-color: #000001 !important;
-    background: #000001 !important;
+    background-color: #000000 !important;
+    background-image: url('https://media.discordapp.net/attachments/1308480901289869342/1310255101780168815/000000.png?ex=67448da7&is=67433c27&hm=92e89bc016f27c7473e7acb13e61a7efc7663c2fe311c72ddc8af4e120e02861&=&format=webp&quality=lossless&width=187&height=250') !important;
+    background-repeat: repeat !important;
 }
 
 /* Fondo de la barra de navegación superior */
 .titleBar-1_MQ99, .topSection-17moyM, .title-29uC1r, .title-2yADpK {
-    background-color: #000001 !important;
-    background: #000001 !important;
+    background-color: #000000 !important;
+    background-image: url('https://media.discordapp.net/attachments/1308480901289869342/1310255101780168815/000000.png?ex=67448da7&is=67433c27&hm=92e89bc016f27c7473e7acb13e61a7efc7663c2fe311c72ddc8af4e120e02861&=&format=webp&quality=lossless&width=187&height=250') !important;
+    background-repeat: repeat !important;
 }
 
 /* Fondo de los mensajes */
 .message-2CShnO, .message-3CQj4a, .message-2bAOvt {
-    background-color: #000001 !important;
-    background: #000001 !important;
-}
-
-/* Fondo de los elementos de la interfaz */
-.container-2OeTPA, .container-3NKwy8, .container-1MW2P0 {
-    background-color: #000001 !important;
-    background: #000001 !important;
+    background-color: #000000 !important;
+    background-image: url('https://media.discordapp.net/attachments/1308480901289869342/1310255101780168815/000000.png?ex=67448da7&is=67433c27&hm=92e89bc016f27c7473e7acb13e61a7efc7663c2fe311c72ddc8af4e120e02861&=&format=webp&quality=lossless&width=187&height=250') !important;
+    background-repeat: repeat !important;
 }
