@@ -1,27 +1,26 @@
 /* Archivo: css/background.css */
 
 /* Fondo principal */
-html, body {
+html, body, #app-mount {
     background-color: #000000 !important;
 }
 
-/* Fondo de los mensajes */
-div.message-2CShnO {
+/* Fondos de los diferentes contenedores */
+div.container-3baos1, div.container-2Pjhx-, div.container-2g94dK, div.container-1giJi1, div.container-3gGgei {
     background-color: #000000 !important;
 }
 
 /* Fondo de la barra lateral */
-div.sidebar-2K8pFh {
+div.sidebar-2K8pFh, div.sidebar-2PZ6yX {
     background-color: #000000 !important;
 }
 
 /* Fondo de la barra de navegación superior */
-div.titleBar-1_MQ99 {
+div.titleBar-1_MQ99, div.topSection-17moyM {
     background-color: #000000 !important;
 }
 
-/* Fondo de los elementos de la interfaz */
-div.container-2OeTPA {
+/* Fondo de los mensajes */
+div.message-2CShnO, div.message-3CQj4a {
     background-color: #000000 !important;
 }
-
