@@ -1,0 +1,50 @@
+/* background.css */
+
+/* Asegurarse de que el fondo del cuerpo sea negro */
+html, body {
+  background-color: #000 !important;
+  color: #fff !important; /* Aseguramos que el texto sea blanco */
+}
+
+/* Asegurarse de que el fondo de la barra lateral también sea negro */
+div.wrapper-1dAXNJ {
+  background-color: #000 !important;
+}
+
+/* Fondo de los mensajes */
+div.message-2a3A3k {
+  background-color: #000 !important;
+  border-radius: 4px !important; /* Mantener las esquinas redondeadas */
+  color: #fff !important; /* Asegurarse de que el texto sea blanco */
+}
+
+/* Fondo para las listas de miembros y otras áreas */
+div.container-2q7lI1 {
+  background-color: #000 !important;
+}
+
+/* Fondo de la barra de navegación superior */
+div.app-1wqW6l {
+  background-color: #000 !important;
+  border-bottom: 1px solid #333 !important;
+}
+
+/* Asegurarse de que los cuadros de mensajes no tengan bordes */
+div.message-2a3A3k {
+  border: none !important;
+}
+
+/* Fondo de las notificaciones */
+div.notifications-3Cx2SE {
+  background-color: #000 !important;
+}
+
+/* Fondo de la zona donde se encuentran los usuarios online */
+div.users-2b7xRl {
+  background-color: #000 !important;
+}
+
+/* Fondo de las opciones de canales */
+div.channelList-1v8PbD {
+  background-color: #000 !important;
+}
