@@ -1,26 +1,39 @@
 /* Archivo: css/background.css */
 
 /* Fondo principal */
-html, body, #app-mount {
+html, body, #app-mount, .app, .layer {
     background-color: #000000 !important;
+    background: #000000 !important;
+    color: #FFFFFF !important; /* Asegura que el texto sea blanco */
 }
 
 /* Fondos de los diferentes contenedores */
-div.container-3baos1, div.container-2Pjhx-, div.container-2g94dK, div.container-1giJi1, div.container-3gGgei {
+.container-3baos1, .container-2Pjhx-, .container-2g94dK, .container-1giJi1, .container-3gGgei,
+.container-3NkBO4, .container-3cGP6G, .container-2CL9sy {
     background-color: #000000 !important;
+    background: #000000 !important;
 }
 
 /* Fondo de la barra lateral */
-div.sidebar-2K8pFh, div.sidebar-2PZ6yX {
+.sidebar-2K8pFh, .sidebar-2PZ6yX {
     background-color: #000000 !important;
+    background: #000000 !important;
 }
 
 /* Fondo de la barra de navegación superior */
-div.titleBar-1_MQ99, div.topSection-17moyM {
+.titleBar-1_MQ99, .topSection-17moyM, .title-29uC1r, .title-2yADpK {
     background-color: #000000 !important;
+    background: #000000 !important;
 }
 
 /* Fondo de los mensajes */
-div.message-2CShnO, div.message-3CQj4a {
+.message-2CShnO, .message-3CQj4a, .message-2bAOvt {
     background-color: #000000 !important;
+    background: #000000 !important;
+}
+
+/* Fondo de los elementos de la interfaz */
+.container-2OeTPA, .container-3NKwy8, .container-1MW2P0 {
+    background-color: #000000 !important;
+    background: #000000 !important;
 }
