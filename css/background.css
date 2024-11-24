@@ -1,80 +1,27 @@
-/* background.css */
+/* Archivo: css/background.css */
 
-/* Definición de las variables para el tema */
-:root {
-  --rgb-highlight: 4, 217, 255;  /* El color de resaltado principal */
-  --highlight: rgb(var(--rgb-highlight)); /* Color de resaltado */
-  --background: black;  /* Fondo negro */
-  --close-button: var(--dnd-color) !important;  /* Color del botón de cerrar */
-  --online-color: #39ff14;  /* Color de usuario en línea */
-  --afk-color: #FFFF33;  /* Color de usuario ausente */
-  --dnd-color: #FF0000;  /* Color de usuario ocupado */
-  --streaming-color: #bc13fe;  /* Color de usuario transmitiendo */
-
-  /* Colores para los estados de los usuarios */
-  --rs-online-color: var(--online-color);
-  --rs-idle-color: var(--afk-color);
-  --rs-dnd-color: var(--dnd-color);
-  --rs-offline-color: gray;
-  --rs-invisible-color: gray;
-  --rs-streaming-color: var(--streaming-color);
-
-  /* Colores interactivos */
-  --interactive-hover: var(--highlight);
-  --interactive-active: var(--highlight);
-  --text-link: var(--highlight);
-  --bdfdb-blurple: var(--highlight);
-  --logo-primary: var(--highlight);
-  --focus-primary: var(--highlight);
-  --radio-group-dot-foreground: var(--highlight);
-  --scrollbar-thin-thumb: var(--highlight);
-  --scrollbar-auto-thumb: var(--highlight);
-  --scrollbar-auto-scrollbar-color-thumb: var(--highlight);
-
-  /* Fondo negro para todas las secciones */
-  --scrollbar-thin-track: var(--background);
-  --scrollbar-auto-track: var(--background);
-  --scrollbar-auto-scrollbar-color-track: var(--background);
-  --activity-card-background: var(--background);
-  --background-primary: var(--background);
-  --background-mobile-primary: var(--background);
-  --background-secondary: var(--background);
-  --background-mobile-secondary: var(--background);
-  --background-secondary-alt: var(--background);
-  --background-tertiary: var(--background);
-  --background-accent: var(--background);
-  --background-floating: var(--background);
-  --channeltextarea-background: var(--background);
-  --textbox-markdown-syntax: var(--background);
+/* Fondo principal */
+html, body {
+    background-color: #000000 !important;
 }
 
-/* Hacer que el fondo del chat sea completamente negro */
-div.chat-3bRxx2 {
-  background-color: var(--background) !important;
+/* Fondo de los mensajes */
+div.message-2CShnO {
+    background-color: #000000 !important;
 }
 
-/* Asegurarse de que el fondo de las áreas principales también sea negro */
-div.app-1wqW6l {
-  background-color: var(--background) !important;
+/* Fondo de la barra lateral */
+div.sidebar-2K8pFh {
+    background-color: #000000 !important;
 }
 
-div.container-2q7lI1 {
-  background-color: var(--background) !important;
+/* Fondo de la barra de navegación superior */
+div.titleBar-1_MQ99 {
+    background-color: #000000 !important;
 }
 
-/* Fondo del área de mensajes */
-div.message-2a3A3k {
-  background-color: var(--background) !important;
-  color: white !important;
-}
-
-/* Asegurarse de que la barra lateral también tenga fondo negro */
-div.wrapper-1dAXNJ {
-  background-color: var(--background) !important;
-}
-
-/* Cambiar el fondo del contenedor de miembros */
-div.status-2Wc9py {
-  background-color: var(--background) !important;
+/* Fondo de los elementos de la interfaz */
+div.container-2OeTPA {
+    background-color: #000000 !important;
 }
 
