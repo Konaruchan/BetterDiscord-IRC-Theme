@@ -1,0 +1,7 @@
+{
+  "name": "IRC-Style Theme",
+  "author": "Konaru",
+  "version": "1.0",
+  "description": "A dark theme with black background and retro IRC-style layout.",
+  "main": "css/main.css"
+}
